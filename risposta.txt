@@ -1,0 +1,1 @@
+Il server effettua un reset dei dati quando si riavvia il server a meno che di non specifiche
